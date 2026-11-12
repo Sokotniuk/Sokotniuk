@@ -1,89 +1,119 @@
 <div align="center">
 
-<a href="https://github.com/sokotnyk">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Student+%40+TUKE;Intelligent+Systems+%C2%B7+Ko%C5%A1ice%2C+Slovakia" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D2B53,100:58A6FF&height=180&section=header&text=Nikita%20Sokotnyk&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%40%20TUKE%20%C2%B7%20Intelligent%20Systems%20%C2%B7%20Ko%C5%A1ice&descAlignY=58&descSize=16" width="100%"/>
+
+<a href="https://github.com/Sokotniuk">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+AI+tools+that+don't+make+things+up;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Web;MAGNA+Hackathon+Ko%C5%A1ice+2026+%E2%80%94+MAGNA+TRACE;Open+to+freelance+%26+internships" alt="Typing SVG" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TUKE-FEI_·_Intelligent_Systems-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based_in-Košice,_Slovakia-1D2B53?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Sokotniuk&style=flat-square&color=58A6FF&label=profile+views" />
 </p>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1D2B53,100:58A6FF&height=90&section=header&text=whoami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
-</div>
+### 👋 About me
 
-<div align="center">
+I'm a computer-science student at **TUKE (FEI, Intelligent Systems)** in Košice. I like low-level C/C++,
+hardware that does something you can touch, and lately — **AI systems that stay honest**: every number
+traceable, nothing invented. I work on the web, scripts and automation too, and I'm open to freelance work and internships.
 
-![Name](https://img.shields.io/badge/Name-Nikita_Sokotnyk-58A6FF?style=for-the-badge)
-![Age](https://img.shields.io/badge/Age-18-58A6FF?style=for-the-badge)
-![University](https://img.shields.io/badge/TUKE-Faculty_of_FEI-58A6FF?style=for-the-badge)
-![Major](https://img.shields.io/badge/Major-Intelligent_Systems-58A6FF?style=for-the-badge)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-![Languages](https://img.shields.io/badge/Languages-C_·_C%2B%2B_·_C%23_·_Python_·_JS_·_HTML_·_CSS-1D2B53?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Stack-Git_·_Linux-1D2B53?style=for-the-badge)
-![Interests](https://img.shields.io/badge/Interests-Software_·_Web_Dev_·_Freelance-1D2B53?style=for-the-badge)
-![Team](https://img.shields.io/badge/Team_Experience-Game_Dev_·_Mechanics_Lead-1D2B53?style=for-the-badge)
+**⚙️ Systems & algorithms**<br/>
+C · C++ · C# — data structures, algorithms, console games, embedded (Arduino).
 
-</div>
+</td>
+<td width="33%" valign="top">
+
+**🧠 AI & backend**<br/>
+Python · FastAPI · LLM tool-calling · Oracle/SQL — agents that cite their sources.
+
+</td>
+<td width="33%" valign="top">
+
+**🌐 Web**<br/>
+HTML · CSS · JavaScript · TypeScript · React — responsive, accessible interfaces.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💡 What I Do
+### 🚀 Featured project
 
-**Programming & Algorithms** · `C` `C++` `C#` `Python`
-Solid foundation in C/C++ from coursework — data structures, algorithms, low-level logic. Also worked with C#. Use Python for scripting, automation, and general-purpose development.
+<table>
+<tr>
+<td>
 
-**Web Development** · `HTML` `CSS` `JavaScript`
-Build and style websites with plain HTML/CSS/JS — from static landing pages to interactive layouts, no frameworks needed. Comfortable with responsive design, DOM manipulation, and cross-device optimization.
+#### 🔴 [MAGNA TRACE](https://github.com/Sokotniuk/magna-trace) — *MAGNA Hackathon Košice 2026*
 
-**Game Development (Team Project)**
-Worked as part of a team on a game project, responsible for designing and implementing all core game mechanics.
+An evidence-driven diagnostic assistant for production technicians, built by our team **Codex’sFanClub** in 24 hours.
+A technician asks *"What happened at station ST1003?"* and gets the measurements straight from Oracle,
+an evidence ID behind every number, the likely cause and what to check first — and a **cross-station analysis**
+that found the same error repeating on **6 stations in 2 waves**, with one plan to fix it for all of them.
 
-Open to freelance work across all of the above — from small scripts and automation tools to website layouts and landing pages.
+`Python` `FastAPI` `React` `TypeScript` `Oracle` `LLM tool-calling` `355 tests`
+
+**My part:** integration of the whole system, the LLM agent and chat, cross-station analysis, troubleshooting rules, sign-in and UI/UX.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Projects
 
-**Text Adventure Game** · `C`
-A console-based text adventure. The player explores different locations, finds a key and a sword, reaches a locked room, defeats the monster inside, and rescues the princess. Focused on game logic, state management, and clean console I/O.
-
-[**Maze Game**](https://github.com/sokotnyk/ncurses-maze-game) · `C`
-A maze game with a full menu system — main menu, level selection, in-game HUD (level, step counter, timer, warnings), win screen, and lose screen. Includes file handling (e.g. loading help text from `help.txt` via a command-line argument) and custom rendering for the maze and UI elements.
-
-[**Arduino Alarm Clock**](https://github.com/sokotnyk/arduino-alarm-clock-uno) · `C++` `Arduino Uno Kit 3.0`
-A multifunctional alarm clock built on the Arduino Uno Kit 3.0. Features a display, a real-time clock module, buttons for setting the time, a joystick for easier navigation, and LEDs that indicate the current alarm mode by color. Also includes an air-monitoring mode that reads temperature and humidity from onboard sensors. Submitted as a coursework project and scored 100/100.
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [**Arduino Alarm Clock**](https://github.com/Sokotniuk/arduino-alarm-clock-uno) | `C++` `Arduino Uno` | Multifunctional alarm clock: display, real-time clock, buttons and joystick, colour-coded alarm modes, temperature & humidity monitoring. Coursework — **100/100**. |
+| [**Maze Game**](https://github.com/Sokotniuk/ncurses-maze-game) | `C` `ncurses` | Maze game with menus, level select, HUD (level, steps, timer, warnings), win/lose screens, file handling and custom rendering. |
+| [**Text Adventure Game**](https://github.com/Sokotniuk/Text-Adventure-Game) | `C` | Console adventure: explore, find the key and the sword, defeat the monster, rescue the princess. Game logic and state management. |
+| **Game project** *(team)* | — | Designed and implemented all core game mechanics. |
 
 ---
 
-### 🐍 Contribution Snake
+### 🧰 Tech stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sokotnyk/sokotnyk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,html,css,react,fastapi,arduino,git,linux,docker,vscode&perline=15" />
+
 </div>
 
+---
+
+### 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sokotniuk&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sokotniuk&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF" height="160" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sokotniuk/Sokotniuk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Sokotniuk/Sokotniuk/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</picture>
+
+</div>
 
 ---
 
 ### 📫 Contact
 
 <p>
-  <a href="mailto:sokotniuknikita@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/neki905">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <a href="mailto:sokotniuknikita@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/neki905"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sokotnyk&style=for-the-badge&color=58A6FF" alt="profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1D2B53,100:0D1117&height=100&section=footer" width="100%"/>
