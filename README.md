@@ -62,7 +62,7 @@ that found the same error repeating on **6 stations in 2 waves**, with one plan 
 
 `Python` `FastAPI` `React` `TypeScript` `Oracle` `LLM tool-calling` `355 tests`
 
-**My part:** integration of the whole system, the LLM agent and chat, cross-station analysis, troubleshooting rules, sign-in and UI/UX.
+**My part:** integration of the whole system, the LLM agent and chat, cross-station analysis, troubleshooting rules.
 
 </td>
 </tr>
