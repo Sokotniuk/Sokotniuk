@@ -33,7 +33,7 @@ C · C++ · C# — data structures, algorithms, console games, embedded (Arduino
 <td width="33%" valign="top">
 
 **🧠 AI & backend**<br/>
-Python · FastAPI · LLM tool-calling · Oracle/SQL — agents that cite their sources.
+Python · FastAPI · LLM tool-calling · Oracle/SQL — agents that cite their sources..
 
 </td>
 <td width="33%" valign="top">
